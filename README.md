@@ -1,4 +1,4 @@
-# SmallProjects
+# C++ Projects
 **Dictionary**:
 
 A list/array of objects stored in sorted order by name for this project.
